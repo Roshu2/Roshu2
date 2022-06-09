@@ -8,10 +8,9 @@
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 ### :telephone_receiver: Contacts
-<p>
-  <a href="https://kyumin1020.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TIL Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:kyumin1020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyumin1020@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyumin1020.tistory.com/)](https://kyumin1020.tistory.com/)
+<a href="mailto:kyumin1020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyumin1020@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 
 <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
