@@ -1,6 +1,6 @@
 ### 🙋🏻‍♀ About Me
 - :wave: Hi, I'm Kyumin Kim <br/> 
-- :eyes: I'm interested in Designing Frontend, Managing Backend and Many more<br/>
+- :eyes: I'm interested in Designing Frontend, Managing Backend by using Django<br/>
 - :wrench: I have project experience using Python, HTML, CSS, JavaScript, etc.
 - :seedling: I'm trying to learn new technologies and try to keep myself busy<br/>
 - :mailbox: You can contact me through socials IDs below <br/>
