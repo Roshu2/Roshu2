@@ -36,8 +36,8 @@
 
 <!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff"> -->
 
-<!-- ### :first_place_medal: BaekJoon(Solved.ac) Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songheew)](https://solved.ac/songheew/) -->
+### :first_place_medal: BaekJoon(Solved.ac) Level
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdusrn1020)](https://solved.ac/dusrn1020/)
 
 <!--
 **Roshu2/Roshu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
