@@ -29,7 +29,6 @@
 
 ### :bar_chart: My Stats
 ![Roshu2's github stats](https://github-readme-stats.vercel.app/api?username=Roshu2&show_icons=true)
-[![Roshu2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshu2&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Roshu2)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Roshu2)
 
 <!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff"> -->
